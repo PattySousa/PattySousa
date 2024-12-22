@@ -1,7 +1,7 @@
    <h1 align="center">Olá! Eu sou a Patrícia Sousa</h1>
 <h2 align="center">Estou em transição de carreira para a área de tecnologia.</h2>
 
-- 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solucions Architect
+- 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
 
 - 🌱 AWS Cloud Certified | GCP Cloud | Oracle Cloud  | Front End | Algoritmos | Git | Devops | Análise de Dados | Python | Linux | Vagrant l Docker | K8s | Helm | Jenkins | Mentora Técnica AWS Voluntária @Escola da Nuvem
 
