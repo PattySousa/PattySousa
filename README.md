@@ -3,9 +3,9 @@
 
 - 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
 
-- 🌱 AWS Cloud Certified | GCP Cloud | Oracle Cloud  | Front End | Algoritmos | Git | Devops | Análise de Dados | Python | Linux | Vagrant l Docker | K8s | Helm | Jenkins | Mentora Técnica AWS Voluntária @Escola da Nuvem
+- 🌱 AWS Cloud Certified | GCP Cloud | Oracle Cloud  | Front End | Algoritmos | Git | Devops | Análise de Dados | Python | Linux | Vagrant | Docker | Mentora Técnica AWS Voluntária @Escola da Nuvem
 
-- 📫 Você consegue me contactar **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Crazy Cloud, tendo grupos de estudos de AWS Practitioner e AWS Architect  -  https://github.com/Comunidade-Crazy-Cloud
+- 📫 Você consegue me contactar no email:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Crazy Cloud, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  https://github.com/Comunidade-Crazy-Cloud
 
 
 ##
