@@ -5,7 +5,7 @@
 
 - 🌱 AWS Cloud Certified | GCP Cloud | Oracle Cloud  | Front End | Algoritmos | Git | Devops | Análise de Dados | Python | Linux | Docker | Mentora Técnica AWS Voluntária @Escola da Nuvem
 
-- 📫 Você consegue me contactar no email:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Crazy Cloud, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  (https://github.com/Cloud-Knitters-Community)
+- 📫 Você consegue me contactar no email:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Cloud Knitters Community, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  (https://github.com/Cloud-Knitters-Community)
 
 
 ##
