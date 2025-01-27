@@ -1,11 +1,47 @@
-   <h1 align="center">Olá! Eu sou a Patrícia Sousa</h1>
-<h2 align="center">Estou em transição de carreira para a área de tecnologia.</h2>
+   <h1 align="center">Olá! Bem-vindo(a) ao meu perfil!</h1>
+<h2 align="center">Profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Certificada AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
 
-- 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
+- 📌 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
 
-- 🌱 AWS Cloud Certified | GCP Cloud | Oracle Cloud  | Front End | Algoritmos | Git | Devops | Análise de Dados | Python | Linux | Docker | Mentora Técnica AWS Voluntária @Escola da Nuvem
+- 👩‍🏫 Destaques:
+ ⦁ Certificações: AWS Cloud Practitioner e AWS Partner Technical Accredited
+ ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/mentora da 
+ Comunidade Cloud Knitters
+ ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
+ ⦁ Conhecimentos em Google Cloud (Vertex AI, Security Cloud GCP) e Oracle Cloud
+ ⦁ Desenvolvimento Front-End: HTML5, CSS3, JavaScript
+ ⦁ Proficiência em Oracle, MySQL, DML/SQL
+ ⦁ Metodologias ágeis: Scrum, Kanban, Trello
 
-- 📫 Você consegue me contactar no email:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Cloud Knitters Community, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  (https://github.com/Cloud-Knitters-Community)
+- 🎆 Realizações:
+ ⦁ Contribuí como mentora para o sucesso de diversos estudantes na obtenção da certificação AWS Cloud Practitioner
+ ⦁ Implementei projeto de gestão de pessoas com rotações de cargos, aumentando a lucratividade em 20%
+ ⦁ Desenvolvi habilidades em comunicação, planejamento estratégico e análise de dados ao longo de mais de 20 anos em vendas
+ ⦁ Experiência em levantamento de requisitos e análise de dados financeiros
+
+- 🎯 Objetivos:
+ ⦁ Oportunidades em Cloud Computing, DevOps e Mentoria Técnica AWS
+ ⦁ Aplicar conhecimentos técnicos em projetos desafiadores
+ ⦁ Continuar aprendizado em tecnologias Cloud e Engenharia de Software
+
+- 🖥️ Formação:
+ ⦁ Engenharia de Software (Em andamento, conclusão prevista: 12/2026)
+ ⦁ Ciências Biológicas (Licenciatura e Bacharelado)
+
+- 📚 Desenvolvimento Contínuo:
+ ⦁ Estudando para certificação AWS Solutions Architect Associate (exame previsto para 02/2025)
+ ⦁ Curso Engenharia de Software (conclusão prevista: 12/2026)
+
+- 💻 Idiomas:
+ ⦁ Português: Fluente nativo
+ ⦁ Inglês: Conhecimento técnico, em processo de aprimoramento da fluência
+ ⦁ Espanhol: Conhecimento técnico
+
+
+- 📝 Comprometida com aprendizado contínuo e pronta para contribuir em equipes inovadoras de tecnologia, transformando a curiosidade infantil em soluções tecnológicas do futuro.
+
+
+- 📫 E-mail:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Cloud Knitters Community, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  (https://github.com/Cloud-Knitters-Community)
 
 
 ##
