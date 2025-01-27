@@ -5,6 +5,7 @@
 
 - 👩‍🏫 Destaques:
  ⦁ Certificações: AWS Cloud Practitioner e AWS Partner Technical Accredited
+
  ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/mentora da 
  Comunidade Cloud Knitters
  ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
