@@ -1,10 +1,10 @@
    <h1 align="center">Olá! Bem-vindo(a) ao meu perfil!</h1>
-<h2 align="center">Profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Certificada AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
+<h2 align="center">Profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Certificada AWS Solutions Achitect, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
 
 - 📌 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
 
 - 👩‍🏫 Destaques:
- ⦁ Certificações: AWS Cloud Practitioner e AWS Partner Technical Accredited
+ ⦁ Certificações: AWS Solutions Architect, AWS Cloud Practitioner e AWS Partner Technical Accredited
  ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/mentora da 
  Comunidade Cloud Knitters
  ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
