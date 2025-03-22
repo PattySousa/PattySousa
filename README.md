@@ -1,7 +1,7 @@
    <h1 align="center">Olá! Bem-vindo(a) ao meu perfil!</h1>
 <h2 align="center">Profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Certificada AWS Solutions Achitect, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
 
-- 📌 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Solutions Architect
+- 📌 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Developer
 
 - 👩‍🏫 Destaques:
  ⦁ Certificações: AWS Solutions Architect, AWS Cloud Practitioner e AWS Partner Technical Accredited
