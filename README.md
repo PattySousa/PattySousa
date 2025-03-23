@@ -9,7 +9,7 @@
  Comunidade Cloud Knitters
  ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
  ⦁ Conhecimentos em Google Cloud (Vertex AI, Security Cloud GCP) e Oracle Cloud
- ⦁ Desenvolvimento Front-End: HTML5, CSS3, JavaScript
+ ⦁ Desenvolvimento Front-End: HTML5, CSS3, JavaScript, PHP, PYTHON, JAVA
  ⦁ Proficiência em Oracle, MySQL, DML/SQL
  ⦁ Metodologias ágeis: Scrum, Kanban, Trello
 
