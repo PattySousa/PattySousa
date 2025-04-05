@@ -5,7 +5,7 @@
 
 - 👩‍🏫 Destaques:
  ⦁ Certificações: AWS Solutions Architect, AWS Cloud Practitioner e AWS Partner Technical Accredited
- ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/mentora da 
+ ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/Mentora da 
  Comunidade Cloud Knitters
  ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
  ⦁ Conhecimentos em Google Cloud (Vertex AI, Security Cloud GCP) e Oracle Cloud
@@ -14,13 +14,13 @@
  ⦁ Metodologias ágeis: Scrum, Kanban, Trello
 
 - 🎆 Realizações:
- ⦁ Contribuí como mentora para o sucesso de diversos estudantes na obtenção da certificação AWS Cloud Practitioner
+ ⦁ Contribuí como mentora para o sucesso de mais de 200 estudantes na obtenção da certificação AWS Cloud Practitioner
  ⦁ Implementei projeto de gestão de pessoas com rotações de cargos, aumentando a lucratividade em 20%
  ⦁ Desenvolvi habilidades em comunicação, planejamento estratégico e análise de dados ao longo de mais de 20 anos em vendas
  ⦁ Experiência em levantamento de requisitos e análise de dados financeiros
 
 - 🎯 Objetivos:
- ⦁ Oportunidades em Cloud Computing, DevOps e Mentoria Técnica AWS
+ ⦁ Oportunidades em Cloud Computing, Desenvolvimento Web e Mentoria Técnica AWS
  ⦁ Aplicar conhecimentos técnicos em projetos desafiadores
  ⦁ Continuar aprendizado em tecnologias Cloud e Engenharia de Software
 
@@ -29,12 +29,13 @@
  ⦁ Ciências Biológicas (Licenciatura e Bacharelado)
 
 - 📚 Desenvolvimento Contínuo:
- ⦁ Estudando para certificação AWS Solutions Architect Associate (exame previsto para 02/2025)
- ⦁ Curso Engenharia de Software (conclusão prevista: 12/2026)
+ ⦁ Estudando para certificação AWS Developer (exame previsto para 07/2025)
+ ⦁ Aulas diárias de Inglês (conversação na Talkntalk) - (término 01/26)
+
 
 - 💻 Idiomas:
  ⦁ Português: Fluente nativo
- ⦁ Inglês: Conhecimento técnico, em processo de aprimoramento da fluência
+ ⦁ Inglês: Conhecimento técnico, em processo de aprimoramento diário da fluência
  ⦁ Espanhol: Conhecimento técnico
 
 
