@@ -1,7 +1,16 @@
-   <h1 align="center">Olá! Bem-vindo(a) ao meu perfil!</h1>
-<h2 align="center">Profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Certificada AWS Solutions Achitect, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
+<h1 align="center">Olá,</h1>
+<h2 align="center">Sou uma profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Atuando como Mentora Técnica Voluntária na Escola da Nuvem e na Cloud Kniters. Atuando também como Consultora Independente Especializada em Mentoria Técnica AWS Cloud, tendo contribuindo ativamente para aprovação direta de mais de 200 profissionais que lograram êxito em suas provas de Certificação.
 
-- 📌 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de AWS Developer
+<h1 align="center">Certificações:</h1>
+<p align="center"> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"  alt="aws practitioner" width="80" height=" 80"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png"  alt="aws saa" width="80" height=" 80"/> </a> 
+<a href="https://www.credly.com/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  alt="aws partner" width="80" height=" 80"/> </a> 
+
+   
+   Certificada AWS Solutions Achitect, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
+
+- 📌 Estou estudando Bacharelado em Engenharia de Software, com excelente desempenho acadêmico e fazendo um curso de AWS Developer
 
 - 👩‍🏫 Destaques:
  ⦁ Certificações: AWS Solutions Architect, AWS Cloud Practitioner e AWS Partner Technical Accredited
@@ -14,7 +23,7 @@
  ⦁ Metodologias ágeis: Scrum, Kanban, Trello
 
 - 🎆 Realizações:
- ⦁ Contribuí como mentora para o sucesso de mais de 200 estudantes na obtenção da certificação AWS Cloud Practitioner
+ ⦁ Contribuí com consultoria/mentoria técnica para o sucesso de mais de 200 estudantes na obtenção de certificações AWS Cloud
  ⦁ Implementei projeto de gestão de pessoas com rotações de cargos, aumentando a lucratividade em 20%
  ⦁ Desenvolvi habilidades em comunicação, planejamento estratégico e análise de dados ao longo de mais de 20 anos em vendas
  ⦁ Experiência em levantamento de requisitos e análise de dados financeiros
