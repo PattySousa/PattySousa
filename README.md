@@ -1,5 +1,5 @@
 <h1 align="center">Olá,</h1>
-<h2 align="center">Sou uma profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Atuando como Mentora Técnica Voluntária na Escola da Nuvem e na Cloud Kniters. Atuando também como Consultora Independente Especializada em Mentoria Técnica AWS Cloud, tendo contribuindo ativamente para aprovação direta de mais de 200 profissionais que lograram êxito em suas provas de Certificação.
+<h2 align="center">Sou uma profissional apaixonada por tecnologia desde a infância, quando desmontava e remontava objetos para entender seu funcionamento. Essa curiosidade natural evoluiu para uma carreira em constante transformação. Atuando como Mentora Técnica Voluntária na Escola da Nuvem e na Cloud Kniters. Atuando também como Mentora Independente de AWS Cloud com foco na preparação para exames de Certificação. Capacitando ativamente para aprovação direta de mais de 200 profissionais que lograram êxito em suas provas de Certificação.
 
 <h1 align="center">Certificações:</h1>
 <p align="center"> 
