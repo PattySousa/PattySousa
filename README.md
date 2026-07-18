@@ -1,5 +1,5 @@
 <h1 align="center">Olá,</h1>
-<h2 align="center">Sou uma profissional apaixonada por tecnologia desde a infância, quando minha curiosidade me levava a desmontar e remontar objetos para compreender seu funcionamento. Essa paixão evoluiu para uma carreira dedicada ao aprendizado contínuo e à transformação na área de tecnologia. Atualmente, atuo como Mentora Técnica Voluntária em iniciativas como Escola da Nuvem e Cloud Kniters, contribuindo para o desenvolvimento de talentos na área de computação em nuvem. Além disso, trabalho como Mentora Independente de AWS Cloud, ajudando profissionais a se prepararem para exames de certificação. Com foco em resultados concretos, já capacitei mais de 200 profissionais que alcançaram sucesso direto em suas certificações.Meu objetivo é compartilhar conhecimento, fomentar o crescimento na área de tecnologia e contribuir para o desenvolvimento de uma comunidade técnica sólida e colaborativa.</h2>
+<h2 align="center">Sou Instrutora Técniva em AWS Cloud</h2>
 
 <h1 align="center">Certificações:</h1>
 <p align="center"> 
@@ -8,50 +8,38 @@
 <a href="https://www.credly.com/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  alt="aws partner" width="80" height=" 80"/> </a> 
 
    
-   Certificada AWS Solutions Achitect, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software com excelente desempenho acadêmico, buscando oportunidades para aplicar e ampliar conhecimentos técnicos.</h2>
-
-- 📌 Estou estudando Bacharelado em Engenharia de Software, com excelente desempenho acadêmico e fazendo um curso de AWS Developer
+   Certificada AWS Developer Associate, AWS Solutions Achitect Associate, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software, Pós Graduação em Arquitetura de Software e MBA em Gestão de Qualidade de Software .</h2>
 
 - 👩‍🏫 Destaques:
- ⦁ Certificações: AWS Solutions Architect, AWS Cloud Practitioner e AWS Partner Technical Accredited
- ⦁ Mentora Técnica Voluntária em Nuvem AWS na Escola da Nuvem e fundadora/Mentora da 
- Comunidade Cloud Knitters
+ ⦁ Mentora Técnica em AWS Cloud na Escola da Nuvem
  ⦁ Experiência prática em AWS: VPCs, bancos de dados, ELB, Auto Scaling, EC2, Security Groups
- ⦁ Conhecimentos em Google Cloud (Vertex AI, Security Cloud GCP) e Oracle Cloud
+ ⦁ Conhecimentos em Google Cloud (Vertex AI, Security Cloud GCP) e Oracle Cloud (6x certificada)
  ⦁ Desenvolvimento Front-End: HTML5, CSS3, JavaScript, PHP, PYTHON, JAVA
  ⦁ Proficiência em Oracle, MySQL, DML/SQL
  ⦁ Metodologias ágeis: Scrum, Kanban, Trello
 
 - 🎆 Realizações:
- ⦁ Contribuí com consultoria/mentoria técnica para o sucesso de mais de 200 estudantes na obtenção de certificações AWS Cloud
+ ⦁ Contribuí com consultoria/mentoria técnica para o sucesso de mais de 1000 estudantes na obtenção de certificações AWS Cloud
  ⦁ Implementei projeto de gestão de pessoas com rotações de cargos, aumentando a lucratividade em 20%
  ⦁ Desenvolvi habilidades em comunicação, planejamento estratégico e análise de dados ao longo de mais de 20 anos em vendas
  ⦁ Experiência em levantamento de requisitos e análise de dados financeiros
 
 - 🎯 Objetivos:
- ⦁ Oportunidades em Cloud Computing, Desenvolvimento Web e Mentoria Técnica AWS
+ ⦁ Fomentar conhecimentos em Cloud Computing, Desenvolvimento Web e Mentoria Técnica AWS
  ⦁ Aplicar conhecimentos técnicos em projetos desafiadores
- ⦁ Continuar aprendizado em tecnologias Cloud e Engenharia de Software
+ ⦁ Continuar aprendizado em tecnologias Cloud e Engenharia/Arquitetura de Software
 
-- 🖥️ Formação:
- ⦁ Engenharia de Software (Em andamento, conclusão prevista: 12/2026)
- ⦁ Ciências Biológicas (Licenciatura e Bacharelado)
-
-- 📚 Desenvolvimento Contínuo:
- ⦁ Estudando para certificação AWS Developer (exame previsto para 07/2025)
- ⦁ Aulas diárias de Inglês (conversação na Talkntalk) - (término 01/26)
 
 
 - 💻 Idiomas:
  ⦁ Português: Fluente nativo
- ⦁ Inglês: Conhecimento técnico, em processo de aprimoramento diário da fluência
+ ⦁ Inglês: Conhecimento intermediário, em processo de aprimoramento diário da fluência
  ⦁ Espanhol: Conhecimento técnico
 
 
-- 📝 Comprometida com aprendizado contínuo e pronta para contribuir em equipes inovadoras de tecnologia, transformando a curiosidade infantil em soluções tecnológicas do futuro.
 
 
-- 📫 E-mail:  **patriciaribeiro554@gmail.com**   Possuo uma comunidade de estudos AWS, a Cloud Knitters Community, tendo grupos de estudos de AWS Practitioner, AWS Architect, entre outros  -  (https://github.com/Cloud-Knitters-Community)
+- 📫 E-mail:  **patriciaribeiro554@gmail.com**   
 
 
 ##
