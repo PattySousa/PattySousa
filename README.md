@@ -1,13 +1,6 @@
 <h1 align="center">Olá,</h1>
 <h2 align="center">Sou Instrutora Técnica em AWS Cloud</h2>
 
-<h1 align="center">Certificações:</h1>
-<p align="center"> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"  alt="aws practitioner" width="80" height=" 80"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png"  alt="aws saa" width="80" height=" 80"/> </a> 
-<a href="https://www.credly.com/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  alt="aws partner" width="80" height=" 80"/> </a> 
-
-   
    Certificada AWS Developer Associate, AWS Solutions Achitect Associate, AWS Cloud Practitioner e AWS Partner Technical Accredited, com foco em Cloud Computing e DevOps. Estudante de Engenharia de Software, Pós Graduação em Arquitetura de Software e MBA em Gestão de Qualidade de Software .</h2>
 
 - 👩‍🏫 Destaques:
