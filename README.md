@@ -1,5 +1,5 @@
 <h1 align="center">Olá,</h1>
-<h2 align="center">Sou Instrutora Técniva em AWS Cloud</h2>
+<h2 align="center">Sou Instrutora Técnica em AWS Cloud</h2>
 
 <h1 align="center">Certificações:</h1>
 <p align="center"> 
